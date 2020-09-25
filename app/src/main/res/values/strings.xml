@@ -2,4 +2,6 @@
     <string name="app_name">PhamMinhKhoa_17023061_tuan1</string>
     <string name="text">GROW "\n" YOUR BUSINESS</string>
     <string name="string">We will help you to grow your business "\n" using online server</string>
+    <string name="forgot">FORGET "\n" PASSWORD</string>
+    <string name="reset">Provide your account’s email for which you want to reset your password</string>
 </resources>
